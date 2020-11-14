@@ -2,7 +2,7 @@
 Goal: To make a balance tracker that allows offline use and will update the balance once its online.<br>
 This project has the following abilites:<br>
 - Able to *add* funds to balance as well as *subtract* from the balance, i.e. deposit and withdraw
-- Able to display balance activities as a graph
+- Able to display balance activities as a graph and a table
 - When the user *does not* have internet connection, the tracker will store all user's inputs and send them to the server once the user is connected to the internet again
 
 <br>
@@ -21,3 +21,7 @@ This project was made using: **HTML5**, **JavaScript**, **CSS**, **NodeJS**, **E
 This project is currently hosted on Heroku with MongoDB Atlas: https://shielded-garden-71901.herokuapp.com/<br>
 
 ## The Tracker
+<img src="./img/readme/tracker.jpg" alt="Tracker showcase" style="margin-left: auto; margin-right: auto" />
+
+## Example
+<img src="./img/readme/adding_withdrawing.jpg" alt="Example showcase" style="margin-left: auto; margin-right: auto" />
